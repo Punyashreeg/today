@@ -10,4 +10,4 @@ scanf("%d", &num);
         reversed = reversed * 10 + remainder;
 	 num /= 10;
     }
-
+ if (original == reversed) {
